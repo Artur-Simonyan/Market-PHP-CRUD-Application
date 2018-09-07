@@ -1,0 +1,43 @@
+.msgSave {
+    margin: 30px auto;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background: #5CB85C;
+    border: 1px solid #3c763d;
+    width: 40%;
+    float: left;
+    text-align: center;
+}
+.msgDelete {
+    margin: 30px auto;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background: #D9534F;
+    border: 1px solid #D43F3A;
+    width: 40%;
+    float: left;
+    text-align: center;
+}
+.msgEdit {
+    margin: 30px auto;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background: #5BC0DE;
+    border: 1px solid #46B8DA;
+    width: 40%;
+    float: left;
+    text-align: center;
+}
+#logError {
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background: #D9534F;
+    border: 1px solid #D43F3A;
+    width: 90%;
+    text-align: center;
+}
+
